@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1414522952 source:/home/user/Dropbox/CSCI1300/Assignment7/main.cpp
+	<iostream>
+	<unistd.h>
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<math.h>
+

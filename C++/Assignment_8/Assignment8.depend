@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1414516102 source:/home/user/Dropbox/CSCI1300/Recitation7/main.cpp
+	<iostream>
+
+1415149403 source:/home/user/Dropbox/CSCI1300/Recitation/Recitation7/main.cpp
+	<iostream>
+	<istream>
+	<unistd.h>
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<time.h>
+	<math.h>
+
+1415155030 source:/home/user/Dropbox/CSCI1300/Assignment 8/main.cpp
+	<iostream>
+	<istream>
+	<unistd.h>
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<time.h>
+	<math.h>
+

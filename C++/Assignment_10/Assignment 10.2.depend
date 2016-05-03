@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1416524108 source:/home/user/Dropbox/CSCI1300/Assignment 10.2/main.cpp
+	<iostream>
+	"food.h"
+	"steak.h"
+	"fish.h"
+	"salad.h"
+
+1416526265 source:/home/user/Dropbox/CSCI1300/Assignment 10.2/fish.cpp
+	"fish.h"
+	"food.h"
+	<iostream>
+
+1416526120 /home/user/Dropbox/CSCI1300/Assignment 10.2/fish.h
+	"food.h"
+	<iostream>
+
+1416524758 /home/user/Dropbox/CSCI1300/Assignment 10.2/food.h
+	<iostream>
+
+1416524758 source:/home/user/Dropbox/CSCI1300/Assignment 10.2/food.cpp
+	"food.h"
+	<iostream>
+
+1416524758 /home/user/Dropbox/CSCI1300/Assignment 10.2/steak.h
+	"food.h"
+	<iostream>
+
+1416524758 /home/user/Dropbox/CSCI1300/Assignment 10.2/salad.h
+	"food.h"
+	<iostream>
+
+1416525185 source:/home/user/Dropbox/CSCI1300/Assignment 10.2/salad.cpp
+	"salad.h"
+	"food.h"
+	<iostream>
+
+1416525185 source:/home/user/Dropbox/CSCI1300/Assignment 10.2/steak.cpp
+	"steak.h"
+	"food.h"
+	<iostream>
+
